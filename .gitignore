@@ -1,0 +1,7 @@
+*.log
+npm-debug.log*
+*.pid
+*.seed
+*.pid.lock
+*.swp
+node_modules
